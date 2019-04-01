@@ -1,0 +1,32 @@
+*{
+  /* margin:0; */
+  /* border: solid black; */
+}
+  #mainScreen{
+    /* ###main div that covers whole pahe### */
+    height: 90vh;
+    width: 95vw;
+    background-color: rgba(0,0,0,.5);
+    border: double 20px black;
+    position: relative;
+  }
+  .mario{
+    /* ###mario style section### */
+    height: 10%;
+    width: 8%;
+    position: absolute;
+    top: 90%;
+    left: 5%;
+  }
+  #cloud{
+    position: absolute;
+    width:10%;
+    height:10%;
+  }
+  #boo{
+    position: absolute;
+    left:90%;
+    top: 90%;
+    height: 10%;
+    width: 10%;
+  }

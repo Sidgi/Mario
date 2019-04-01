@@ -1,0 +1,64 @@
+*{
+  margin:0;
+  /* border: solid black; */
+}
+  .main{
+    /* ###main div that covers whole pahe### */
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0,0,0,.5);
+    border: double 20px black;
+    position: relative;
+  }
+  .mario{
+    /* ###mario style section### */
+    height: 50%;
+    width: 30%;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+  }
+  .wrapperP{
+    background-color: white;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    padding: 3%;
+    border-radius: 60%/50%;
+  }
+  #cloud{
+    position: absolute;
+    width:10%;
+    height:10%;
+    animation: cloudAnimation 10s ease-in-out infinite;
+  }
+
+  .buttonTest{
+    background: url('../images/button.png');
+    width: 50px;
+    height:50px;
+    margin: 5%  42% 0 42%;
+    background-size: cover;
+  }
+  .buttonTest:hover{
+    transform: scale(1.5,1.5);
+  }
+  .slidesText{
+    font-size: 15pt;
+    font-style: italic;
+    text-align: center;
+  }
+  .slidesText:hover{
+     transform: scale(1.1,1.1);
+     z-index: 20;
+  }
+@keyframes cloudAnimation {
+  0%{
+    top:0;
+    left: 0;
+  }
+  100%{
+    top:0;
+    left: 1500;
+  }
+}

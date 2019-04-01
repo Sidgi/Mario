@@ -2,7 +2,7 @@ Game Name is Mario .
 
 When Mario gets 1000 points he weens
 He should go over lava and his main enemy "boo".
-Boo is flying accross the canvas and when he touches the mario, mario will loose 100pts, Mario will loose if score will deacres to 0 and "Boo" will touch  
+Boo is flying accross the canvas and when he touches the mario, mario will loose .
 Mario gets points by eating the conins. When Mario touches the coin, coin will disappear and Mario will get points. 
 Mario can jump on breek and grab the coins 
 Each time Mario grabs the coin it will add 50 pts to his score. As I mentioned above he will win when he will reach 1000 pts.
@@ -19,7 +19,7 @@ b) arrow left goes left,
 c) if press space it jumps
 d) if press 'q' it will strike in enemies - 'boo's
 
-3) update the score each time Mario touches the coin (add 50 pts) or strikes (deacreses 50 pts) and each time boo will touch the mario score will deacrease on 100pts.
+3) update the score each time Mario touches the coin (add 50 pts) or strikes (deacreses 50 pts).
 
 4) Collision detection :
 a) Mario with "boo"

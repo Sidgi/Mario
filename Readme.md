@@ -40,11 +40,10 @@ Technologies:
 
 I am planning to foresee the problem with reading books eloiqueant js, Youtube and Google, and MDN.
 
-
-![Uploading IMG_4155.jpg…]()
-![Uploading IMG_4384.jpg…]()
-![Uploading IMG_8685.jpg…]()
-![Uploading IMG_4155.jpg…]()
+![IMG_4384](https://user-images.githubusercontent.com/39839481/55332896-3be77c80-5464-11e9-90b3-e98feead8139.jpg)
+![IMG_8685](https://user-images.githubusercontent.com/39839481/55332908-40139a00-5464-11e9-8c9f-c117b00ec868.jpg)
+![IMG_8948](https://user-images.githubusercontent.com/39839481/55332930-499d0200-5464-11e9-98d3-41d7ed293c27.jpg)
+![IMG_4155](https://user-images.githubusercontent.com/39839481/55332856-2e31f700-5464-11e9-8a85-161d115788d9.jpg)
 
 
 

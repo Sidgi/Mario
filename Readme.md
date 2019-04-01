@@ -41,6 +41,10 @@ Technologies:
 I am planning to foresee the problem with reading books eloiqueant js, Youtube and Google, and MDN.
 
 
+![Uploading IMG_4155.jpg…]()
+![Uploading IMG_4384.jpg…]()
+![Uploading IMG_8685.jpg…]()
+![Uploading IMG_4155.jpg…]()
 
 
 
